@@ -14,9 +14,9 @@ Robot est un jeu en tour par tour où le joueur cherche à échapper à des robo
 * **robot_comp.ml :** jeu initial + fonctionnalités complémentaires
 * **robot_comp_bonus.ml :** jeu initial + fonctionnalités complémentaires + fonctionnalités bonus
 
-_PS :_Par défaut le clavier azerty est utilisé. Il est toutefois possible de configurer le choix du clavier dans le code source, dans le main.
+*PS :*Par défaut le clavier azerty est utilisé. Il est toutefois possible de configurer le choix du clavier dans le code source, dans le main.
 
-_PS2 :_Les robots ne sont pas "intelligents", ils vont toujours chercher à se rapprocher du joueur même si ça les amène sur des débris (ou sur un autre robot).
+*PS2 :*Les robots ne sont pas "intelligents", ils vont toujours chercher à se rapprocher du joueur même si ça les amène sur des débris (ou sur un autre robot).
 
 Mode d'emploi
 -------------
